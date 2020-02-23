@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/SWDV660/helloworld/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "mocha": "~2.5.3",
     "zombie": "~3.0.15"
   }
